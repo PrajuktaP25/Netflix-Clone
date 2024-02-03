@@ -1,0 +1,236 @@
+@media (max-width: 600px) {
+  .nav_btn .px-4 {
+    width: 55px;
+    height: 30px;
+    padding: 4px 2px;
+    margin-right: 10px;
+  }
+  .nav_btn .btn {
+    width: 70px;
+    height: 28px;
+  }
+  .btn {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+}
+/*  */
+@media (max-width: 960px) {
+  header,
+  .container2 {
+    height: auto;
+  }
+  .imglogo {
+    width: 120px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: -5px;
+  }
+  .nav_btn {
+    margin-top: -42px;
+    margin-right: 90px !important;
+  }
+  .hero {
+    margin-top: 50px;
+  }
+  .hero-title {
+    font-size: 2rem;
+  }
+  .hero-first-p,
+  .hero-second-p {
+    font-size: 1.2rem;
+    margin-top: 7px;
+  }
+  form .form-floating {
+    width: 90%;
+  }
+  #input {
+    height: 50px;
+  }
+  .get-started-btn {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    width: 170px;
+    height: 40px;
+    margin-bottom: 20px;
+    font-weight: 400;
+  }
+}
+/*  */
+@media (max-width: 1290px) {
+  .container2-heading {
+    margin-left: 10px;
+    margin-top: -10px;
+  }
+  .container4-heading {
+    margin-left: 0px !important;
+    margin-top: -10px;
+  }
+  .container2-heading .section-paragraph {
+    font-size: 1.1rem;
+    margin-top: 7px;
+    margin-left: -20px !important;
+  }
+  .cont4b {
+    text-align: center !important;
+    font-size: 1.1rem;
+    margin-top: 15px !important;
+    margin-left: 20px !important;
+  }
+  .container2-heading .section-title {
+    font-size: 2rem;
+  }
+  .cont4a {
+    font-size: 2rem;
+    text-align: center !important;
+    margin-left: -10px !important;
+  }
+  #next {
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 700px) {
+  .container2-img video {
+    margin-top: -220px;
+    margin-left: 78px;
+    width: 295px;
+  }
+  .container4-img video {
+    margin-top: -278px;
+    margin-left: 90px;
+    width: 270px;
+  }
+  .container2-img {
+    width: 280px;
+    margin-left: -5px;
+    margin-top: 10px;
+  }
+  .container4-img {
+    width: 270px;
+    margin-left: -15px;
+    margin-top: -30px;
+  }
+  .container2-img img {
+    width: 361px;
+
+    margin-left: 30px;
+  }
+  .container4-img img {
+    width: 420px;
+
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 991.95px) {
+  .container3 {
+    flex-direction: column;
+  }
+
+  .container3-img {
+    order: 2;
+  }
+
+  .container3-heading {
+    order: 1;
+  }
+  .container3-heading .section-paragraph {
+    text-align: center !important;
+
+    margin-left: 15px !important;
+    margin-top: 5px;
+    font-size: 1.2rem;
+  }
+  .container3-heading .section-title {
+    font-size: 1.9rem;
+    font-weight: 800;
+margin-left: 20px !important;
+    text-align: center !important;
+  }
+  .container3-img img {
+    width: 230px;
+    height: 350px;
+    margin-top: 20px;
+    margin-left: 90px;
+  }
+  .download_sec {
+    width: 300px;
+    height: 65px;
+
+    margin-top: -85px;
+    margin-left: 50px;
+  }
+  .download_sec img {
+    width: 50px;
+    height: 50px;
+    margin-top: 7px;
+    margin-left: 10px;
+  }
+  .download-content {
+    position: absolute;
+    color: black;
+    margin-top: -40px;
+    margin-left: 70px;
+  }
+  .download-content h4 {
+    font-size: 0.8rem;
+    font-weight: 550;
+  }
+  .download-content h5 {
+    font-size: 0.7rem;
+  }
+  .e15c37ii5 {
+    margin-left: 245px;
+    margin-top: -53px;
+  }
+
+  .container5 {
+    flex-direction: column;
+  }
+
+  .container5-img {
+    order: 2;
+  }
+
+  .container5-heading {
+    order: 1;
+  }
+  .container5-heading .section-paragraph {
+    text-align: center !important;
+
+    margin-left: 15px !important;
+    margin-top: 5px;
+    font-size: 1rem;
+  }
+  .container5-heading .section-title {
+    font-size: 1.9rem;
+    font-weight: 800;
+
+    text-align: center !important;
+  }
+  .container5-img img {
+    width: 400px;
+
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  h1.text-center {
+    font-size: 1.6rem;
+    font-weight: 900;
+  }
+  .accordion-item {
+    width: 430px;
+    margin-left: 15px;
+  }
+
+  .accordion-body {
+    background-color: #2e2828;
+    color: white;
+    font-size: 1.2rem;
+  }
+  .accordion-button {
+    font-size: 20px;
+    font-weight: 450;
+  }
+}
